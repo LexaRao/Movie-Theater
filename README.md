@@ -4,7 +4,7 @@ The purpose of this Github is to document the ways that the Movie Theater ticket
 
  
 
-# Requirements:    
+## Requirements:    
 
 This section will document the requirements of the Ticketing System.  It will include the information from our software contractor.  We will define the document using IEEE-830-1998.  The PDF contains the version of this document being submitted in Canvas.   
   
