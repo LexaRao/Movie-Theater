@@ -1,11 +1,11 @@
-# Title page
+Title page:   
     •  Software title
     •  Team members
 
-# System Description
+System Description:   
     •  Brief overview of system
 
-# Software Architecture Overview
+Software Architecture Overview:   
     •  Architectural diagram of all major components
     •  UML Class Diagram
     •  Description of classes
@@ -13,7 +13,7 @@
     •  Description of operations
 * descriptions should be detailed and specify datatypes, function interfaces, parameters, etc..
 
-# Development plan and timeline
+Development plan and timeline:   
     •  Partitioning of tasks
     •  Team member responsibilities
 
