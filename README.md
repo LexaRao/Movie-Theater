@@ -14,7 +14,7 @@ This section will document the requirements of the Ticketing System.  It will in
 The software design section will document the software design from the requirements.  These specifications describe the software organization and development plan.   This document is meant for the developers.  The PDF contains the version of this document being submitted by everyone using GitHub through Canvas.                      
 
 
-## Test Plan.  
+## Test Plan:    
 
 Responsible for outlining how the Theater Ticketing System is being tested.  Creates a plan to fully test the code to make sure it conforms to the requirements and makes sure that the code's defects are not too severe and the number of them is in an acceptable range.  
 
