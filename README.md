@@ -18,3 +18,8 @@ The software design section will document the software design from the requireme
 
 Responsible for outlining how the Theater Ticketing System is being tested.  Creates a plan to fully test the code to make sure it conforms to the requirements and makes sure that the code's defects are not too severe and the number of them is in an acceptable range.  
 
+
+## Architecture Design w/Data Mgmt   
+
+Looks into the ways that the architecture handles data and the ways that data is managed.  Looks into the ways that data is protected from malicious users.  Gives more details on low-level data management, and, what happens when something goes wrong.  Expands on the way the project can be expanded in the future.  
+
